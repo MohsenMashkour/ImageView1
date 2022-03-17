@@ -1,0 +1,16 @@
+Index: app/src/main/res/layout/activity_tp.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_tp.xml b/app/src/main/res/layout/activity_tp.xml
+--- a/app/src/main/res/layout/activity_tp.xml	(date 1647517366498)
++++ b/app/src/main/res/layout/activity_tp.xml	(date 1647517366498)
+@@ -35,7 +35,6 @@
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="15dp"
+-        android:layout_marginEnd="-1dp"
+         android:text="set alarm"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
